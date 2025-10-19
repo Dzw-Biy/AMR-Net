@@ -1,7 +1,7 @@
 📘 README
 Notice
 
-This repository is currently under review for a journal/conference submission.
+This repository is currently under review for IOTJ submission.
 The complete source code and model implementations will be made publicly available upon paper acceptance.
 
 At this stage, only the dataset configuration and preprocessing scripts are provided to demonstrate the data organization and preparation pipeline used in our study.
